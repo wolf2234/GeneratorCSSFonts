@@ -1,7 +1,7 @@
 import os
 file_names = []
 
-fl = os.listdir('C:/Users/avtom/Visual_Studio_Code/ДНТБ-Projects/Test_projects/FreelanceOfLife/HomeWork/lesson_6-10/DBS-Interactive/fonts/NunitoSans')
+fl = os.listdir('')
 
 for i in fl:
     file_names.append(i.split('.')[0])
